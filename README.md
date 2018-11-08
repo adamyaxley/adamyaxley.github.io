@@ -9,7 +9,7 @@ Coming soon...
 Coming soon...
 
 ### Libraries
- - [Unformat](https://github.com/adamyaxley/Unformat) Fastest type-safe parsing library in the world for C++14/C++17 (300x faster than std::regex)
+ - [Unformat](https://github.com/adamyaxley/Unformat) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
  - [Obfuscate](https://github.com/adamyaxley/Obfuscate) Guaranteed compile-time string literal obfuscation header-only library for C++14
 
 ## Timeline
