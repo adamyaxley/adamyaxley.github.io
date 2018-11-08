@@ -14,11 +14,9 @@ Coming soon...
 ### Ninja Cat
 Coming soon...
 
-### Obfuscate
-Coming soon...
-
-### Unformat
-Coming soon...
+### Libraries
+ - [Unformat](https://github.com/adamyaxley/Unformat) Fastest type-safe parsing library in the world for C++14 or C++17 (up to 300x faster than std::regex)
+ - [Obfuscate](https://github.com/adamyaxley/Obfuscate) Guaranteed compile-time string literal obfuscation header-only library for C++14
 
 ## Contact
 Please contact me through [LinkedIn](https://www.linkedin.com/in/adam-yaxley-53249442/)
