@@ -9,8 +9,8 @@ Coming soon...
 Coming soon...
 
 ### Libraries
- - [Unformat](https://github.com/adamyaxley/Unformat) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
- - [Obfuscate](https://github.com/adamyaxley/Obfuscate) Guaranteed compile-time string literal obfuscation header-only library for C++14
+ - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
+ - [Obfuscate](./Obfuscate/) Guaranteed compile-time string literal obfuscation header-only library for C++14
 
 ## Timeline
  - 2012 Graduated at the University of Warwick - Computing Systems Bsc, 1st Class Honours Bsc
