@@ -1,3 +1,6 @@
 [submodule "Unformat"]
 	path = Unformat
 	url = https://github.com/adamyaxley/Unformat.git
+[submodule "Obfuscate"]
+	path = Obfuscate
+	url = https://github.com/adamyaxley/Obfuscate.git
