@@ -6,7 +6,12 @@ A creative programmer who is passionate to explore his imagination, discover new
 Coming soon...
 
 ### Ninja Cat
-Coming soon...
+**[Available for free on Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat)**
+
+Ninja Cat is an addictively cute endless runner arcade game with engaging achievements and competitive leaderboards. It was developed in the Pineapple Game Engine in C++.
+<div style="align:center;">
+  <a href="https://play.google.com/store/apps/details?id=com.pineapple.ninjacat"><img src="./Images/ninjacat1.png" /></a>
+</div>
 
 ### Libraries
  - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
