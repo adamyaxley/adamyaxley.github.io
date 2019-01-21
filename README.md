@@ -18,10 +18,11 @@ Ninja Cat is an addictively cute endless runner arcade game with engaging achiev
  - [Obfuscate](./Obfuscate/) Guaranteed compile-time string literal obfuscation header-only library for C++14
 
 ## Timeline
- - 2012 Graduated at the University of Warwick - Computing Systems Bsc, 1st Class Honours Bsc
+ - 2012 Graduated at the University of Warwick - Computing Systems, 1st Class Honours Bsc
  - 2012 Internship at Havok (Dublin, Ireland)
  - 2013 Software Engineer at G-Research (London, England)
  - 2015 Developer Relations Engineer at Havok (Tokyo, Japan)
+ - 2017 Developer Relations Engineer 2 at Microsoft (Tokyo, Japan)
 
 ## Contact
 Please contact me through [LinkedIn](https://www.linkedin.com/in/adam-yaxley-53249442/)
