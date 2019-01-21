@@ -6,7 +6,7 @@ A creative programmer who is passionate to explore his imagination, discover new
 Coming soon...
 
 ### Ninja Cat
-**[Available for free on Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat)**
+[Available for free on Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat)
 
 Ninja Cat is an addictively cute endless runner arcade game with engaging achievements and competitive leaderboards. It was developed in the Pineapple Game Engine in C++.
 <div style="align:center;">
