@@ -2,16 +2,17 @@
 A creative programmer who is passionate to explore his imagination, discover new ideas and turn them into a reality using the wonders of computer science.
 
 ## Creations
-### Pineapple Game Engine
-Coming soon...
 
 ### Ninja Cat
-[Available for free on Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat)
+Ninja Cat is an addictively cute but difficult endless runner arcade game with engaging achievements and competitive leaderboards. It was developed in the Pineapple Game Engine in C++.
 
-Ninja Cat is an addictively cute endless runner arcade game with engaging achievements and competitive leaderboards. It was developed in the Pineapple Game Engine in C++.
+Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
 <div style="align:center;">
-  <a href="https://play.google.com/store/apps/details?id=com.pineapple.ninjacat"><img src="./Images/ninjacat1.png" /></a>
+  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="./Images/ninjacat1.png" /></a>
 </div>
+
+### Pineapple Game Engine
+Coming soon...
 
 ### Libraries
  - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
