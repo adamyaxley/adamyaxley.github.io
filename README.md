@@ -23,7 +23,8 @@ Coming soon...
  - 2012 Internship at Havok (Dublin, Ireland)
  - 2013 Software Engineer at G-Research (London, England)
  - 2015 Developer Relations Engineer at Havok (Tokyo, Japan)
- - 2017 Developer Relations Engineer 2 at Microsoft (Tokyo, Japan)
+ - 2017 Developer Relations Engineer 2 at Havok (Microsoft) (Tokyo, Japan)
+ - 2020 Senior Developer Relations Engineer at Havok (Microsoft) (Tokyo, Japan)
 
 ## Contact
 Please contact me through [LinkedIn](https://www.linkedin.com/in/adam-yaxley-53249442/)
