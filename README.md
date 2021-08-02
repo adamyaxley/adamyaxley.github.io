@@ -11,14 +11,12 @@ Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id9088449
   <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="./Images/ninjacat1.png" /></a>
 </div>
 
-### Pineapple Game Engine
-Coming soon...
-
 ### Libraries
- - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
  - [Obfuscate](./Obfuscate/) Guaranteed compile-time string literal obfuscation header-only library for C++14
+ - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
 
 ## Timeline
+ - 2003 Started making own games at age 12
  - 2012 Graduated at the University of Warwick - Computing Systems, 1st Class Honours Bsc
  - 2012 Internship at Havok (Dublin, Ireland)
  - 2013 Software Engineer at G-Research (London, England)
