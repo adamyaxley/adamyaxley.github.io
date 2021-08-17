@@ -1,14 +1,17 @@
-## About
+---
+layout: default
+title: Fractal Junkie
+description: Mandelbrot and Julie set explorer for the Nintendo DS
+---
+# About
 
-<div style="align:center;">
-  <img src="./fractal_junkie1.png" />
-</div>
+![Fractal Junkie screenshot 1](./fractal_junkie1.png)
 
 Fractal: "A curve or geometric figure, each part of which has the same statistical character as the whole."
 
 These beautiful geometric wonders can now be carried around in your pocket! This application allows for Mandelbrot and Julia Fractal exploration on the Nintendo DS platform. Utilizing the features of the DS, on the bottom users draw a region on the screen with the stylus to zoom further into the labyrinth, while the top is used for displaying key information and options.
 
-## Controls
+# Controls
 Stylus: Draw a region to zoom in
 D-PAD: Move 32px
 TOUCH: Draw a new view
@@ -20,7 +23,7 @@ Y: Toggle Julia set mode
 START: Start over
 SELECT: Goto previous image
 
-## Features
+# Features
  - 64bit accuracy
  - Mandelbrot set
  - Custom Julia sets (this includes Fatou Dust)
