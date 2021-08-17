@@ -1,3 +1,9 @@
+---
+layout: default
+title: Adam Yaxley
+description: Portfolio
+---
+
 # About
 A creative programmer who is passionate to explore his imagination, discover new ideas and turn them into a reality using the wonders of computer science.
 
