@@ -4,6 +4,12 @@ title: Ninja Cat
 description: The Legend of the Lost Headbands
 date: 2020-04-30
 ---
+
+Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
+<div style="align:center;">
+  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="./assets/ninja_cat1.png" /></a>
+</div>
+
 # About
 
 Help Ninja Cat to become a master ninja as you embark on a magical quest to find the legendary lost ninja headbands! Experience an adorable arcade retro world like no other, as you collect each ninja headband! Run and jump in this fun hardcore endless runner, that will challenge even the toughest ninjas!
