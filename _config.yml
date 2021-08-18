@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Adam Yaxley
+
+collections:
+    projects:
+        output: true
