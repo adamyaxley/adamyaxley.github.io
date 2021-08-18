@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Pineapple Game Engine
-description: The Legend of the Lost Headbands
+description: 2D game engine utilizing modern C++ to provide an intuitive API and a decoupled plugin system
 date: 2020-04-30
 ---
 # About
 
 # Pineapple [![License: Zlib](https://img.shields.io/badge/License-Zlib-brightgreen.svg)](https://opensource.org/licenses/Zlib)
-
-2D game engine utilizing modern C++ to provide an intuitive API and a decoupled plugin system.
 
 # Goals
 The following are the primary goals for this project:
