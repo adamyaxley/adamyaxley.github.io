@@ -2,7 +2,7 @@
 layout: default
 title: Ninja Cat
 description: The Legend of the Lost Headbands
-date: 2020-04-30
+date: 2014-07-09
 ---
 
 Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
