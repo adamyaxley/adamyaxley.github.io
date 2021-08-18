@@ -14,7 +14,7 @@ Ninja Cat is an addictively cute but difficult endless runner arcade game with e
 
 Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
 <div style="align:center;">
-  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="./assets/ninja_cat1.png" /></a>
+  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="assets/ninja_cat1.png" /></a>
 </div>
 
 ## Libraries

@@ -6,7 +6,7 @@ date: 2008-04-26
 ---
 # About
 
-![Fractal Junkie screenshot 1](./assets/fractal_junkie1.png)
+![Fractal Junkie screenshot 1](assets/fractal_junkie1.png)
 
 Fractal: "A curve or geometric figure, each part of which has the same statistical character as the whole."
 
