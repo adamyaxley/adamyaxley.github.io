@@ -4,7 +4,8 @@ title: Fractal Junkie
 description: Mandelbrot and Julie set explorer for the Nintendo DS
 date: 2008-04-26
 downloads:
-  - fractal_junkie.nds
+  - url: fractal_junkie.nds
+    text: Download Nintendo DS ROM
 ---
 # About
 
