@@ -6,7 +6,7 @@ description: A timeline of stuff I've done!
 {% for project in site.projects %}
 <h2>
   <a href="{{ project.url }}">{{ project.title }}</a>
+  <span style="float: right;">{{ project.date | date: "%Y/%m" }}</span>
 </h2>
-{{ project.date | date: "%Y/%m" }}
-{{ project.description }}
+<p>{{ project.description }}</p>
 {% endfor %}
