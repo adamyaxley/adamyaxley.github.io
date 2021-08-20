@@ -21,8 +21,8 @@
       {% if page.github_url %}
         <a href="{{ page.github_url }}" class="btn">View on GitHub</a>
       {% endif %}
-      {% for download in page.downloads %}
-        <a href="/download/{{ download.url }}" class="btn">{{ download.text }}</a>
+      {% for link in page.links %}
+        <a href="{{ link.url }}" class="btn">{{ link.text }}</a>
       {% endfor %}
     </header>
 
