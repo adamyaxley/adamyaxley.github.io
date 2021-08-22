@@ -8,7 +8,7 @@ links:
     text: View on GitHub
 ---
 
-#Background
+# Background
 
 I've been a huge fan of brace style "{}" string formatting for a long time. Regarding C++, it was only in C++20 that it got official support with the acceptance of [P0645](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0645r10.html). Even before then there were unofficial libraries that could do the same thing.
 
