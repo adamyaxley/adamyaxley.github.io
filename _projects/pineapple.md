@@ -11,7 +11,7 @@ links:
 ---
 # Background
 
-The Pineapple Game Engine was the result of my dissertation for my Bachelors degree at Warwick University. Since then, it has continued to live on as a hobbyist project. Originally it could be used to create small games and simulations that could run on Windows, Linux and Nintendo DS. Writing a game engine from scratch was _definitely_ my most valuable learning experience as a computer scientist.
+The Pineapple Game Engine was the result of my dissertation for my Bachelors degree at Warwick University. Since then, it has continued to live on as a hobbyist project. Originally it could be used to create small games and simulations that could run on Windows, Linux and Nintendo DS. Writing a cross platform game engine completely from scratch was _definitely_ my most valuable learning experience as a computer scientist.
 
 # Dissertation Abstract
 
