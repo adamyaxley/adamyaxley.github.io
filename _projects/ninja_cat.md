@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: Ninja Cat
 description: The Legend of the Lost Headbands
 date: 2014-07-09
