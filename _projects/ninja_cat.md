@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Ninja Cat
-description: The Legend of the Lost Headbands
+description: Fun endless ninja runner game for mobile iOS and Android
 date: 2014-07-09
 links:
   - url: https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8
@@ -14,7 +14,7 @@ links:
 
 Ninja cat started out as a simple endless runner game that I made to test the capabilities of the [Pineapple Game Engine](/projects/pineapple) one weekend in 2013. At that time, the Pineapple Game Engine did not have great support for mobile platforms, and I ended up spending 90% of my time implementing Android and iOS platforms.
 
-In Ninja Cat, the platforms are generated completely at random each time you play. The  platforms positions are calculated based on the jumping or falling velocity of Ninja Cat using the equations for projectile motion, also known as SUVAT. 
+In Ninja Cat, the platforms are generated completely at random each time you play. The  platforms positions are calculated based on the jumping or falling velocity of the player using the equations for projectile motion, also known as SUVAT. 
 
 # About
 
@@ -38,5 +38,3 @@ Ninja Cat is a beautifully hand-crafted and light-hearted runner following the a
 - Awesome Achievements
 - Competitive Leaderboards
 - Mt Fuji! Nyan Nyan!
-
-Remember to Sign In for Ninja Achievements and impossible Leaderboards!
