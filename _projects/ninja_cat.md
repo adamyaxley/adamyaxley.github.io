@@ -3,16 +3,24 @@ layout: default
 title: Ninja Cat
 description: The Legend of the Lost Headbands
 date: 2014-07-09
+links:
+  - url: https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8
+    name: Apple App Store
+  - url: https://play.google.com/store/apps/details?id=com.pineapple.ninjacat
+    name: Google Play
 ---
 
-Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
-<div style="align:center;">
-  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="/assets/ninja_cat1.png" /></a>
-</div>
+# Background
+
+Ninja cat started out as a simple endless runner game that I made to test the capabilities of the [Pineapple Game Engine](/projects/pineapple) one weekend in 2013. At that time, the Pineapple Game Engine did not have great support for mobile platforms, and I ended up spending 90% of my time implementing Android and iOS platforms.
+
+In Ninja Cat, the platforms are generated completely at random each time you play. The  platforms positions are calculated based on the jumping or falling velocity of Ninja Cat using the equations for projectile motion, also known as SUVAT. 
 
 # About
 
 Help Ninja Cat to become a master ninja as you embark on a magical quest to find the legendary lost ninja headbands! Experience an adorable arcade retro world like no other, as you collect each ninja headband! Run and jump in this fun hardcore endless runner, that will challenge even the toughest ninjas!
+
+![Ninja Cat screenshot 1](/assets/ninja_cat1.png)
 
 WARNING: This game is very challenging! Do you have the skills of a Ninja Cat? Ninja Cat is an addictively cute endless runner arcade game with engaging Achievements and competitive Leaderboards.
 
@@ -31,4 +39,4 @@ Ninja Cat is a beautifully hand-crafted and light-hearted runner following the a
 - Competitive Leaderboards
 - Mt Fuji! Nyan Nyan!
 
-Remember to Sign In to Game Center for Ninja Achievements and impossible Leaderboards!
+Remember to Sign In for Ninja Achievements and impossible Leaderboards!

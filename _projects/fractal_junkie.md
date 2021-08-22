@@ -39,4 +39,4 @@ These beautiful geometric wonders can now be carried around in your pocket! This
  - Custom Julia Sets (including Fatou Dust)
  - 7 Colour Palletes (update without redrawing)
  - 3 Colour Styles (update without redrawing)
- - Optimal <a href='http://mrob.com/pub/muency/successiverefinement.html'>successive refinement</a> rendering
+ - Optimal [successive refinement](http://mrob.com/pub/muency/successiverefinement.html) rendering
