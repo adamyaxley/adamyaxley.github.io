@@ -5,9 +5,9 @@ description: The Legend of the Lost Headbands
 date: 2014-07-09
 links:
   - url: https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8
-    name: Apple App Store
+    text: Apple App Store
   - url: https://play.google.com/store/apps/details?id=com.pineapple.ninjacat
-    name: Google Play
+    text: Google Play
 ---
 
 # Background
