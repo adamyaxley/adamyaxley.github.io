@@ -28,7 +28,7 @@ Peach Has Got It! is the result of this week long coding task and features the l
 
 # External links
 
- - https://www.gamesindustry.biz/articles/2012-06-19-search-for-a-star-finalists-highlight-key-uk-universities
- - https://www.gamesindustry.biz/articles/2012-06-27-aardvark-swifts-search-for-a-star-winner-named
+https://www.gamesindustry.biz/articles/2012-06-19-search-for-a-star-finalists-highlight-key-uk-universities
+https://www.gamesindustry.biz/articles/2012-06-27-aardvark-swifts-search-for-a-star-winner-named
 
 Princess Peach © Nintendo
