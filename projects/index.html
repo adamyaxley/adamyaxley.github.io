@@ -3,7 +3,7 @@ layout: default
 title: Projects
 description: A timeline of stuff I've done!
 ---
-{% for project in site.projects %}
+{% for project in site.projects | reverse %}
 <h2>
   <a href="{{ project.url }}">{{ project.title }}</a>
   <span style="float: right;">{{ project.date | date: "%Y/%m" }}</span>

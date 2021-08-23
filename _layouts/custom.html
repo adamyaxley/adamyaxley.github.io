@@ -27,7 +27,9 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-	  <h3 style="text-align: right"><a href="/">Go back to the home page</h3>
+	  {% if page.title != "Adam Yaxley" %}
+	  <h3 style="text-align: right"><a href="/">Go back to the home page</a></h3>
+	  {% endif %}
       {{ content }}
 
       <footer class="site-footer">
