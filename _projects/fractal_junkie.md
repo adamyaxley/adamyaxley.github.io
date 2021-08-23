@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Fractal Junkie
 description: Mandelbrot and Julie set explorer for the Nintendo DS
 date: 2008-04-26

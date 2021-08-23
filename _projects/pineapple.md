@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Pineapple Game Engine
 description: 2D game engine utilizing modern C++ to provide an intuitive API and a decoupled plugin system
 date: 2012-06-30

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Ninja Cat
 description: Fun endless ninja runner game for mobile iOS and Android
 date: 2014-07-09

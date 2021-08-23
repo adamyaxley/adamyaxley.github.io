@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Unformat
 description: Parsing and extraction of original data from brace style "{}" formatted strings. It basically unformats what you thought was formatted for good.
 date: 2017-12-10

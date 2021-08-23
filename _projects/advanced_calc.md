@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Advanced Scientific Calculator
 description: Highly advanced calculator capable of solving equations and approximating integrals
 date: 2009-02-17

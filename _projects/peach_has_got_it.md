@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Peach Has Got It!
 description: Awarded 1st place in the 2012 Rising Star game programming competition
 date: 2012-06-27

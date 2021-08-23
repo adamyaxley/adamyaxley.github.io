@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: custom
 title: Obfuscate
 description: Guaranteed compile-time string literal obfuscation header-only library for C++14
 date: 2017-11-28

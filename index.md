@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Adam Yaxley
 description: Portfolio
 ---
@@ -7,21 +7,17 @@ description: Portfolio
 # About
 A creative programmer who is passionate to explore his imagination, discover new ideas and turn them into a reality using the wonders of computer science.
 
-# Creations
+# Projects
 
-## Ninja Cat
-Ninja Cat is an addictively cute but difficult endless runner arcade game with engaging achievements and competitive leaderboards. It was developed in the Pineapple Game Engine in C++.
+{% for project in site.projects %}
+<h2>
+  <a href="{{ project.url }}">{{ project.title }}</a>
+  <span style="float: right;">{{ project.date | date: "%Y/%m" }}</span>
+</h2>
+<p>{{ project.description }}</p>
+{% endfor %}
 
-Download now ([Apple App Store](https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8) | [Google Play](https://play.google.com/store/apps/details?id=com.pineapple.ninjacat))
-<div style="align:center;">
-  <a href="https://apps.apple.com/app/apple-store/id908844949?pt=95940764&ct=AdamYaxley&mt=8"><img src="assets/ninja_cat1.png" /></a>
-</div>
-
-## Libraries
- - [Obfuscate](./Obfuscate/) Guaranteed compile-time string literal obfuscation header-only library for C++14
- - [Unformat](./Unformat/) Extremely fast type-safe parsing for C++14/C++17 (300x faster than std::regex)
-
-# Timeline
+# Professional Timeline
  - 2003 Started making own games at age 12
  - 2012 Graduated at the University of Warwick - Computing Systems, 1st Class Honours Bsc
  - 2012 Internship at Havok (Dublin, Ireland)
