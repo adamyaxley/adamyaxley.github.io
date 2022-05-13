@@ -6,7 +6,7 @@ description: Portfolio
 
 # About
 
-A creative programmer who is passionate to explore his imagination, discover new ideas and turn them into a reality using the wonders of computer science.
+A creative engineer who is passionate to explore his imagination, discover new ideas and turn them into a reality using the wonders of computer science.
 
 Please contact me through [LinkedIn](https://www.linkedin.com/in/adam-yaxley-53249442/)
 
@@ -19,6 +19,7 @@ Please contact me through [LinkedIn](https://www.linkedin.com/in/adam-yaxley-532
  - 2015 Developer Relations Engineer at Havok (Tokyo, Japan)
  - 2017 Developer Relations Engineer 2 at Havok (Microsoft) (Tokyo, Japan)
  - 2020 Senior Developer Relations Engineer at Havok (Microsoft) (Tokyo, Japan)
+ - 2022 Senior Software Engineer at Havok (Microsoft) (Tokyo, Japan)
 
 # Personal Projects
 
